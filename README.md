@@ -5,3 +5,4 @@ For small practice projects to help me improve
 2) FizzBuzz - gotta know it 
 3) Year 100 - just tells you what year it will be when you turn 100
 4) Odd or Even - basic challenge to work on basic concepts
+5) Fibonacci - couple ways to solve the fibonacci equation
