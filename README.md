@@ -1,9 +1,9 @@
 # Small-Projects
-For small practice projects to help me improve
+For small practice projects to help me improve my coding
 
-1) a Dice Roll simulator - pretty basic code
-2) FizzBuzz - gotta know it 
-3) Year 100 - just tells you what year it will be when you turn 100
-4) Odd or Even - basic challenge to work on basic concepts
-5) Fibonacci - couple ways to solve the fibonacci equation
-6) girls baby name generator using bs4 (my first time using that framework)
+* **A Dice Roll simulator** - pretty basic code
+* **FizzBuzz** - gotta know it 
+* **Year 100** - just tells you what year it will be when you turn 100
+* **Odd or Even** - basic challenge to work on basic concepts
+* **Fibonacci** - couple ways to solve the fibonacci equation
+* **Girls Baby Name Generator** _using bs4_ (my first time using that framework)
