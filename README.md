@@ -7,3 +7,4 @@ For small practice projects to help me improve my coding
 * **Odd or Even** - basic challenge to work on basic concepts
 * **Fibonacci** - couple ways to solve the fibonacci equation
 * **Girls Baby Name Generator** _using bs4_ (my first time using that framework)
+* **Bulls and Cows** - Number guessing game
